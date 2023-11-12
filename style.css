@@ -31,6 +31,10 @@ p {
   font-family: "Arial", "Meiryo", sans-serif;
 }
 
-#child {
+#child p {
+  font-weight: bold;
+}
+
+#child > p {
   font-weight: bold;
 }
