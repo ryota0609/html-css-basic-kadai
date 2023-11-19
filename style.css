@@ -81,7 +81,7 @@ a:hover {
   p {
     font-size: 25px;
   }
-  div {
+  #parent {
     display: block;
   }
 }
